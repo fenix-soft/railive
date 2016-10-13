@@ -11,4 +11,4 @@ gnu seed
 
 dos2unix
 
-mpv media player
+mpv media player (mpv we must compiled or instaled whit support for HLS stream)
