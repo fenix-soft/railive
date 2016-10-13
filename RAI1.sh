@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# rai 1
 wget -d "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2621467&output=45" -U "iphone" -O p.txt
 grep http  p.txt >temp.txt
 sed -e 's/<url type="content">//g' temp.txt >temp2.txt
