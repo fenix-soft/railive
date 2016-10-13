@@ -15,7 +15,7 @@ mpv media player (mpv we must compiled or instaled whit support for HLS stream)
 
 ## Usage:
 
-#open your terminal and run a  specific script for watch specific tv channel
+open your terminal and run a  specific script for watch specific tv channel
 
 ### exmple:
 whatch rai1: run script RAI1.sh or ./RAI1.sh if the script no integrate on the system o in .bashrc
