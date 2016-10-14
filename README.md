@@ -23,4 +23,15 @@ whatch rai1: run script RAI1.sh or ./RAI1.sh if the script no integrate on the s
 
 from custom prove, change the terminal work directory, on the script live and run as ./RAI1.sh
 
-for integrate  in the system edit your .bashcr file and add a path for  custom  railive directory script
+for integrate  in the system edit your .bashrc file and add a path for  custom  railive directory script
+
+### exmple edit .bashrc  file integration 
+
+export PATH=$PATH:"path railive directory script"
+
+
+now bash look the script, good whatch!
+
+## close a channell or script
+
+for close the program, close  the mpv window, and the script terminate and cleaning temp file, if the script  terminate for error or another cause, or the mpv window dont match, you can use the temp file to debug a problem.
