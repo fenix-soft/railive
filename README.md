@@ -30,8 +30,10 @@ for integrate  in the system edit your .bashrc file and add a path for  custom  
 export PATH=$PATH:"path railive directory script"
 
 
-now bash look the script, good whatch!
+now bash look the script. 
 
-## close a channell or script
+## close a channel or script
 
-for close the program, close  the mpv window, and the script terminate and cleaning temp file, if the script  terminate for error or another cause, or the mpv window dont match, you can use the temp file to debug a problem.
+for close the program, close  the mpv window, and the script terminate and cleaning temp file, if the script  terminate for error or another cause, or the mpv window not view, you can use the temp files to debug a problem.
+
+## good watching and sorry of my bad english!
