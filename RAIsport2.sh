@@ -2,7 +2,7 @@
 # rai sport 2 sd è la versione sd di rai sport 1
 
 wget -d "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=45" -U "iphone" -O p.txt
-grep http  p.txt >temp.txt
+grep content  p.txt >temp.txt
 sed -e 's/<url type="content">//g' temp.txt >temp2.txt
 cat temp2.txt
 sed -e 's/<\/url>//g' temp2.txt >temp.txt
